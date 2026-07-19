@@ -10,7 +10,7 @@ The dashboard enables users to filter sales data dynamically using slicers and v
 
 ## 🎯 Business Problem
 
-Retail businesses need an efficient way to monitor sales performance across different regions, customer segments, and product categories and identify the costumer which made the highest-value purchase for bounus eligibility. This dashboard provides an interactive solution for exploring sales trends and identifying performance patterns.
+Retail businesses need an efficient way to monitor sales performance across different regions, customer segments, and product categories and identify the costumers that made the high-value purchases for bounus eligibility. This dashboard provides an interactive solution for exploring sales trends and identifying performance patterns.
 
 ---
 
